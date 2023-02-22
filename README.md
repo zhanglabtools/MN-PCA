@@ -16,5 +16,5 @@ MN-PCA (matrix normal principal component analysis) is a powerful and intuitive 
 ```
 
 ## Tutorial
-The tutorial is available at (here)[https://github.com/zhanglabtools/MN-PCA/tree/main/tutorial]
+The tutorial is available at [here](https://github.com/zhanglabtools/MN-PCA/tree/main/tutorial)
 
